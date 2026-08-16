@@ -1,0 +1,8 @@
+sarthak
+age
+marks
+sarthak is learning python
+age
+marks
+Gagan
+marks
